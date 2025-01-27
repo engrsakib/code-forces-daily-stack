@@ -11,7 +11,9 @@ class Solution
 public:
     void solve()
     {
-        
+        int x;
+        cin >> x;
+        cout << (x + 4) / 5 << '\n';
     }
 };
 signed main()
@@ -20,11 +22,11 @@ signed main()
     // _File    : A_Elephant.cpp
     // Md. Nazmus Sakib
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
-    //اللهم صل على سيدنا محمدن النبى الامى وآله وسلم
+    // اللهم صل على سيدنا محمدن النبى الامى وآله وسلم
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     ll t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--)
     {
         Solution obj;
