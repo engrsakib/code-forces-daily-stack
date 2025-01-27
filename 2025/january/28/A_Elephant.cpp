@@ -6,6 +6,8 @@
 #define no cout << "NO\n"
 using namespace std;
 
+// problem link: https://codeforces.com/contest/617/problem/A
+
 class Solution
 {
 public:
