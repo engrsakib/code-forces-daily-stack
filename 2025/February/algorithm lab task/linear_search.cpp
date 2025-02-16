@@ -10,6 +10,13 @@ int search(vector<int>& arr, int x) {
 }
 
 int main() {
+
+     // _Created : 16 February 2025 ||  09:01:08
+    // _File    : linear_search.cpp
+    // Md. Nazmus Sakib
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    // اللهم صل على سيدنا محمدن النبى الامى وآله وسلم
+
     vector<int> arr;
     int n;
     cin >> n;
